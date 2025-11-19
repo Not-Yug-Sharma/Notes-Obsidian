@@ -16,14 +16,5 @@ The notes will follow the following pattern:<ul>
 You need the following before integrating this Repository:
 <ol>
 	<li> Obsidian : <a href=https://obsidian.md/download>Use this link and download the variant depending on your OS</a> </li> <br>
-	<li> Open obsidian and under settings look for Community plugins, turn it on and install GIT.<br>
-		<ul>
-		<li>The settings option will be near the bottom left corner.</li> <br>
-		<li>Under the settings menu the Community Plugins option is available as the 7<sup>th</sup><i> Sub-Menu</i>.</li> <br>
-		<li>After having turned on community plugins navigate to the browse option.</li> <br>
-		<li>There search for Git. It usually is the first option; and the only one, but look for the one which says By: Vinzent.</li> <br>
-		</ul> </li>
-	<li> After installing the Git plugin, hit Ctrl+P on your keyboard and start typing "Clone" you should see a option that says: "Git: Clone an existing remote repo". Select that option.</li>
-	<li>I tried multiple ways for this step, none of them worked so just for this particular step message me at: 
-	<ul> <li> <a href=https://www.instagram.com/_y_u_g1/?hl=en> Insta </a></li> <li> <a href=https://www.facebook.com/yug.sharma.702701/> Facebook/Messenger</a></li> </ul> 
+	<li> Clone this repo to the desired destination in your 
 	
