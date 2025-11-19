@@ -16,5 +16,5 @@ The notes will follow the following pattern:<ul>
 You need the following before integrating this Repository:
 <ol>
 	<li> Obsidian : <a href=https://obsidian.md/download>Use this link and download the variant depending on your OS</a> </li> <br>
-	<li> Clone this repo to the desired destination in your 
+	<li> Clone this repo to the desired destination in your computer by using 
 	
