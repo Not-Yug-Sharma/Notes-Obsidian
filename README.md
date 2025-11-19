@@ -23,7 +23,6 @@ You need the following before integrating this Repository:
 		<li>There search for Git. It usually is the first option; and the only one, but look for the one which says By: Vinzent.</li> <br>
 		</ul> </li>
 	<li> After installing the Git plugin, hit Ctrl+P on your keyboard and start typing "Clone" you should see a option that says: "Git: Clone an existing remote repo". Select that option.</li>
-	<li>I tried multiple ways for this step, none of them worked so just message me at:
-	<ul> <li> <a href=https://www.instagram.com/_y_u_g1/?hl=en> INSTA </a></li> <li> <a href=https://www.facebook.com/yug.sharma.702701/> Facebook/Messenger</a></li> <br> for this particular step.</li>
-	
+	<li>I tried multiple ways for this step, none of them worked so just for this particular step message me at: 
+	<ul> <li> <a href=https://www.instagram.com/_y_u_g1/?hl=en> INSTA </a></li> <li> <a href=https://www.facebook.com/yug.sharma.702701/> Facebook/Messenger</a></li> </ul> 
 	
