@@ -23,4 +23,4 @@ You need the following before integrating this Repository:
 # Automating the updates:
 
 If you want constant updates you can do the following:
-<ol>
+<ol><li>Manual method: <br> On command prompt cd to the directory(location) where you previously cloned the repo
