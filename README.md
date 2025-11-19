@@ -23,4 +23,5 @@ You need the following before integrating this Repository:
 		<li>There search for Git. It usually is the first option; and the only one, but look for the one which says By: Vinzent.</li> <br>
 		</ul> </li>
 	<li> After installing the Git plugin, hit Ctrl+P on your keyboard and start typing "Clone" you should see a option that says: "Git: Clone an existing remote repo". Select that option.</li>
+	<li>Use the <a href=https://docs.google.com/document/d/1JQD_IaXPxmY3Sslsa3TZ4Apsm5aWSaH3g13SjY4OXDs/edit?usp=sharing
 	
