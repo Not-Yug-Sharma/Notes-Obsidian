@@ -20,5 +20,7 @@ You need the following before integrating this Repository:
 	<li> Clone this repo to the desired destination in your computer by using this command in your command prompt: git clone https://github.com/Not-Yug-Sharma/Notes-Obsidian.git</li><ul> <li> Or you can just copy and paste the following after adding your user folder name in place of (Your User Folder):<br> cd "C:\Users\(Your User folder)\Documents\Obsidian Vault"<br> git clone https://github.com/Not-Yug-Sharma/Notes-Obsidian.git</li> </ul> </li> <li>Finally Open Obsidian, if you have cloned the repo in the default Obsidian folder, the notes will show up naturally. Else look for s pop up menu that says Obsidian Vault ---> Manage Vaults ---> Open folder as vault, then select the folder you cloned the repo in as your vault.</li>
 	</ol>
 	
-	
-	
+# Automating the updates:
+
+If you want constant updates you can do the following:
+<ol>
