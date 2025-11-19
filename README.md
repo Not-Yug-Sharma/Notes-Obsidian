@@ -12,7 +12,7 @@ The notes will follow the following pattern:
 
 # Integrating this repo to your Obsidian App:
 
-You need the following before integrating and automating the pu this Repository:
+You need the following before integrating this Repository:
 <ol>
 	<li> Obsidian : <a href=https://obsidian.md/download>Use this link and download the variant depending on your OS</a> </li> <br>
 	<li> Open obsidian and under settings look for Community plugins, turn it on and install GIT.<br>
