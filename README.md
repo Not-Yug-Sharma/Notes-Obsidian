@@ -23,4 +23,4 @@ You need the following before integrating this Repository:
 # Automating the updates:
 
 If you want constant updates you can do the following:
-<ol><li>Manual method: <br> On command prompt cd to the directory(location) where you previously cloned the repo. Then just enter "git pull". If there are changes this will automatically apply them to your "Downloaded" repo as well. <B>
+<ol><li>Manual method: <br> On command prompt cd to the directory(location) where you previously cloned the repo. Then just enter "git pull". If there are changes this will automatically apply them to your "Downloaded" repo as well. While using <u>git pull</u> only the changes will be downloaded.
