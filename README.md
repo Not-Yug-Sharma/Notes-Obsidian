@@ -6,8 +6,8 @@ The syllabus for all courses of a Semester will be included in the respective SE
 # Progression of these notes
 The notes will follow the following pattern:
 <ul>
-	-<li>Proper Statements:<ul>
-		-<li>Based on the course to the point and features approved definitions, codes etc.</li> </ul> </li>
+	<li>Proper Statements:<ul>
+		<li>Based on the course to the point and features approved definitions, codes etc.</li> </ul> </li>
 	<li>Caveman terms:<ul>
 		<li>Extremely simplified version. Just for the sake of understanding the concept and cuz its funny..... </li></ul></li>
 </ul>
