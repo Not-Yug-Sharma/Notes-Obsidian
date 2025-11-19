@@ -4,8 +4,7 @@ These are notes based on the curriculum/syllabus for CSIT of Far-Western Univers
 The syllabus for all courses of a Semester will be included in the respective SEM folders.
 
 # Progression of these notes
-The notes will follow the following pattern:
-<ul>
+The notes will follow the following pattern:<ul>
 	<li>Proper Statements:<ul>
 		<li>Based on the course to the point and features approved definitions, codes etc.</li> </ul> </li>
 	<li>Caveman terms:<ul>
