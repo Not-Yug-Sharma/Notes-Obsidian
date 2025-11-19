@@ -16,6 +16,6 @@ The notes will follow the following pattern:<ul>
 You need the following before integrating this Repository:
 <ol>
 	<li> Obsidian : <a href=https://obsidian.md/download>Use this link and download the variant depending on your OS</a> </li> 
-	<li>GIT: <a href="https://git-scm.com/install/"></a>
+	<li>GIT: <a href="https://git-scm.com/install/">Use this link and download the variant depending on your OS</a>
 	<li> Clone this repo to the desired destination in your computer by using this command in your command prompt: git clone https://github.com/Not-Yug-Sharma/Notes-Obsidian.git</li>
 	
