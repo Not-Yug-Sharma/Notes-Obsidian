@@ -17,7 +17,7 @@ The notes will follow the following pattern:<ul>
 
 # Regarding the use of these notes
 
-The notes that are already on this repo or those that will be added are primarily my own.  
+The notes that are already on this repo or those that will be added will be made primarily by me. The notes here are not the final cheat sheet to prepare for the exams 
 
 # Integrating this repo to your Obsidian App:
 
