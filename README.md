@@ -44,4 +44,4 @@ If you want constant updates you can do the following:
 
 # Final remarks:
 
-If you have any problems while setting things up you can contact me at anytime during college hours or message me through Insta or Messenger <i> though I don't quite respond to unknown dms</i>: <ul> <li> <a href=https://www.facebook.com/yug.sharma.702701/> Facebook </a></li><li> <a href=https://www.instagram.com/_y_u_g1/?hl=en> Insta </a></li></ul>
+If you have any problems while setting things up you can contact me at anytime during college hours or message me through Insta or Messenger <i> though I don't quite respond to unknown dms</i>: <ul> <li> <a href=https://www.facebook.com/yug.sharma.702701/> Facebook </a><li> <a href=https://www.instagram.com/_y_u_g1/?hl=en> Insta </a></li
