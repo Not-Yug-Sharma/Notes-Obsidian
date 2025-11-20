@@ -1,6 +1,6 @@
 
 # Who Am I?
-My name is Yug Sharma Timilsina, and I am currently studying in Gandaki Academy Of Interdisc 
+My name is Yug Sharma Timilsina, a CSIT student currently studying in Gandaki Academy Of Interdisciplinary Studies or GAINS for short.   
 
 
 
