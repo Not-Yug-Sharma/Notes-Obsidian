@@ -41,8 +41,9 @@ If you want constant updates you can do the following:
 
 # <p align="center">Happy Learning!</p>
 
-# Do you h
-# Final remarks:
+# Do you <i>have</i> to do this?
+Yes and no. Yes because after starting off in thefield of 
+# Final remarks: 
 
 If you have any problems while setting things up you can contact me at anytime during college hours or message me through Insta or Messenger <i> though I don't quite respond to unknown dms</i>: 
 
