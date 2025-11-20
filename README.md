@@ -21,7 +21,7 @@ The notes that are already on this repo or those that will be added will be made
 
 
 # What won't be included:
-Calculus notes will not be included because it is difficult to digitalize all those symbols and IMO it is better to practice subjects with direct conne
+Calculus notes will not be included because it is difficult to digitalize all those symbols and IMO it is better to practice subjects with direct connection to mathematics individually. Still the books, syllabus and question banks will be provided along side other 
 
 # Integrating this repo to your Obsidian App:
 
