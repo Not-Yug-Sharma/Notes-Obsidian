@@ -42,7 +42,7 @@ If you want constant updates you can do the following:
 # <p align="center">Happy Learning!</p>
 
 # Do you <i>have</i> to do this?
-Yes and no. Yes because after starting off in thefield of 
+Yes and no. Yes because after starting off in the field of <b>IT</b> it is absolutely necessary to be aware about and know how to use git. No because you are not req
 # Final remarks: 
 
 If you have any problems while setting things up you can contact me at anytime during college hours or message me through Insta or Messenger <i> though I don't quite respond to unknown dms</i>: 
