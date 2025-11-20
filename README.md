@@ -1,6 +1,6 @@
 
 # Who Am I?
-My name is Yug Sharma T
+My name is Yug Sharma Timilsina, and I am currently studying in Gandaki Academy Of Interdisc 
 
 
 
