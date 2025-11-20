@@ -17,7 +17,7 @@ The notes will follow the following pattern:<ul>
 
 # Regarding the use of these notes
 
-The
+The notes that are already on this repo or those that will be added are primarily my own.  
 
 # Integrating this repo to your Obsidian App:
 
