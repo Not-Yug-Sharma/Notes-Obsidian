@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main(){
-    char a = "Hello";
-    char b= "World";
+    char a[25] = 'Hello';
+    char b[25] = 'World';
     printf("%s %s\n",a,b);
 }
