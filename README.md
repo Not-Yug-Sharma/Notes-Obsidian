@@ -1,4 +1,3 @@
-
 <a href="https://gandakiacademy.edu.np/"><img src="https://gandakiacademy.edu.np/assets/img/gains-logo-name.svg"> </a>
 # Who Am I?
 My name is Yug Sharma Timilsina, a CSIT student currently studying in Gandaki Academy Of Interdisciplinary Studies or GAINS for short.   
@@ -15,6 +14,10 @@ The notes will follow the following pattern:<ul>
 	<li>Caveman terms:<ul>
 		<li>Extremely simplified version. Just for the sake of understanding the concept and cuz its funny..... </li></ul></li>
 </ul>
+
+# Regarding the use of these notes
+
+The
 
 # Integrating this repo to your Obsidian App:
 
