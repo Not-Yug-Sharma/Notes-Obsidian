@@ -1,12 +1,7 @@
 
+![logo](https://gandakiacademy.edu.np/assets/img/gains-logo-name.svg)
 # Who Am I?
 My name is Yug Sharma Timilsina, a CSIT student currently studying in Gandaki Academy Of Interdisciplinary Studies or GAINS for short.   
-
-
-
-
-
-![logo](https://gandakiacademy.edu.np/assets/img/gains-logo-name.svg)
 
 # Notes for What?
 These are notes based on the curriculum/syllabus for CSIT of Far-Western University of Nepal.
