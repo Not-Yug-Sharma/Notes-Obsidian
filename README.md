@@ -1,3 +1,5 @@
+![logo](https://gandakiacademy.edu.np/assets/img/gains-logo-name.svg)
+
 # Notes for What?
 These are notes based on the curriculum/syllabus for CSIT of Far-Western University of Nepal.
 
