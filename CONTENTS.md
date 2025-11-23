@@ -31,6 +31,6 @@
 - [[7. The Binary System]]
 - [[8. Programming Languages]]
 - [[9. Data Files]]
-- 10. Simple Telecommunications
-- 11. Common Applications of Computer Systems
-- 12. Networking And The Internet
+- [[10. Simple Telecommunications]]
+- [[11. Common Applications of Computer Systems]]
+- [[12. Networking and The Internet]]
