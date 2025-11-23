@@ -5,4 +5,5 @@ Books:
 	- [[CSIT-Notes/SEM I/Books/115- Programming in C/Gramer and Ward-Q Skills for Success Reading and Writing 3.pdf|Gramer and Ward-Q Skills for Success Reading and Writing 3]]
 
 Chapters:
-	1. 
+	1. Language Functions and their Exponents in context
+	2. Reading an
