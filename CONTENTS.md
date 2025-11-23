@@ -51,4 +51,4 @@
 
 ## Electronic Principles (CSIT 114)
 ### Syllabus:
-#### Electronic P
+#### [[Electronic Principles.pdf]]
