@@ -3,7 +3,7 @@
 <hr color="red">
 <br>
 
-# <p al>If you like seeing organized things avoid other files other than README.md on GitHub's website
+# <p align="center">If you like seeing organized things avoid other files other than README.md on GitHub's website.</p>
 
 
 # <p align="center">Files will look weird while viewing directly through GitHub.</p> 
