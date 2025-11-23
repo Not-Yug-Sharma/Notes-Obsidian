@@ -80,4 +80,6 @@
 - 4. Functions, Storage Classes and Recursion
 - 5. Structure and Union
 - 6. Pointers and File Handling
-- 7. Lin
+- 7. Link Lists
+- 8. Stacks
+- 9. 
