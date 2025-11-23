@@ -31,4 +31,5 @@
 - 7. The Binary System
 - 8. Programming Languages
 - 9. Data Files
-- 10. Simple T
+- 10. Simple Telecommunications
+- 11. Common Applica
