@@ -44,4 +44,4 @@
 - [[Thomas and Finney - Calculus and Analytic Geometry.pdf]]
 
 ### Chapters:
-##### Sadly no Notes for Calculus yet. I'
+##### Sadly no Notes for Calculus yet. I'll update it as soon as I figure something 
