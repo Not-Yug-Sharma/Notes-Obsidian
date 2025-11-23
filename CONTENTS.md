@@ -60,4 +60,5 @@
 - 1. Circuit Analysis
 - 2. Semiconductors
 - 3. Bipolar Junction Transistor
-- Field Effect Transistor
+- 4. Field Effect Transistor
+- 5. Amplifiers
