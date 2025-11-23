@@ -61,7 +61,7 @@ Yes and no. Yes because after starting off in the field of <b>IT</b> it is absol
 
 # Empty files: Is my Obsidian broken?
 No, well maybe. I all files are shown as empty then maybe, but most files do have something on them. chapters not covered in class will be empty as they are <strong>NOT COVERED</strong>. They will be updated as time goes on.
-Thos 
+Those empty files are created so I can make a
 
 # Final remarks: 
 
