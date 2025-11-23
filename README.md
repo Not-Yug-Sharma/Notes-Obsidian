@@ -1,6 +1,4 @@
 <a href="https://gandakiacademy.edu.np/"><img src="https://gandakiacademy.edu.np/assets/img/gains-logo-name.svg"> </a>
-
-# Important:
 <br><br>
 <hr color="red">
 
