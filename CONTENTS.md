@@ -19,7 +19,6 @@
 
 ### Syllabus:[[ IT Fundamentals]]
 
-
 ### Books: <br>
 - [[Capron and Johnson - Computers - Tools for an Information Age.pdf]]
 ### Chapters:
