@@ -10,11 +10,11 @@
 - [[CSIT-Notes/SEM I/Books/115- Programming in C/Gramer and Ward-Q Skills for Success Reading and Writing 3.pdf|Gramer and Ward-Q Skills for Success Reading and Writing 3]]
 
 ### Chapters:
-- [[1. Language Functions and their Exponents in context]]<br>
-- [[2. Reading and Listening]]<br>
-- [[3. Writing at Work]]<br>
-- [[4. Vocabulary]]<br>
-- [[5. Critical Thinking]]<br>
+- [[1. Language Functions and their Exponents in context]]
+- [[2. Reading and Listening]]
+- [[3. Writing at Work]]
+- [[4. Vocabulary]]
+- [[5. Critical Thinking]]
 ## IT Fundamentals (CSIT 112)
 
 ### Syllabus:[[ IT Fundamentals]]
