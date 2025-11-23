@@ -11,7 +11,7 @@
 [[2. Reading and Listening]]<br>
 [[3. Writing at Work]]<br>
 [[4. Vocabulary]]<br>
-	[[5. Critical Thinking]]<br>
+[[5. Critical Thinking]]<br>
 # IT Fundamentals (CSIT 112)
 
 Syllabus: 
