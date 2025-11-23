@@ -9,5 +9,7 @@ C tokens are the smallest units of a C program that hold meaning to the compiler
 			- Generally Identifiers are case sensitive, i.e. Ram is not the same as ram.
 			- <b>KEYWORDS</b> cannot be used as identifiers.
 	2. Keywords:
-		- Reserved words that have predefined meaning and function that cannot b echangesd
+		- Reserved words that have predefined meaning and function that cannot be changed.
+		- Keywords must always be written in lower-case.
+		- Example: int, char, stri
 		
