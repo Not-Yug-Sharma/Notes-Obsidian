@@ -20,7 +20,7 @@
 ### Syllabus:
 #### [[IT Fundamentals]]
 
-### Books: <br>
+### Books:
 - [[Capron and Johnson - Computers - Tools for an Information Age.pdf]]
 ### Chapters:
 - [[1. Computer Concepts]]
