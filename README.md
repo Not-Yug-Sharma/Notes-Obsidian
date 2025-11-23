@@ -1,6 +1,6 @@
 <a href="https://gandakiacademy.edu.np/"><img src="https://gandakiacademy.edu.np/assets/img/gains-logo-name.svg"> </a>
 
-
+# Im
 # <p align="center">Files will look weird while viewing directly through GitHub.</p> 
 This is because though both are markdown files GitHub's .md need to follow rules of GFM or GitHub Flavored Markdown, whereas Obsidian has no strict boundaries for use of Markdown. Best option would be to read only the README.md file on the website and other notes after cloning the repository.
 
