@@ -37,7 +37,8 @@
 - [[12. Networking and The Internet]]
 
 ## Calculus and Analytical Geometry (CSIT 113)
-### Syllabus: [[Calculus and Analytical Geometry.pdf]]
+### Syllabus: 
+#### [[Calculus and Analytical Geometry.pdf]]
 
 #### Books:
 - [[Bartle and Sherbert - Introduction to Real Analysis.pdf]]
