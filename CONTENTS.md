@@ -79,4 +79,5 @@
 - 3. Arrays, Strings and Sorting Techniques
 - 4. Functions, Storage Classes and Recursion
 - 5. Structure and Union
-- 6. Pointers 
+- 6. Pointers and File Handling
+- 7. Lin
