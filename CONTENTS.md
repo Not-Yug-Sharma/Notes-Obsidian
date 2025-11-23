@@ -59,4 +59,5 @@
 ### Chapters:
 - 1. Circuit Analysis
 - 2. Semiconductors
-- 3. Bipolar Ju
+- 3. Bipolar Junction Transistor
+- 
