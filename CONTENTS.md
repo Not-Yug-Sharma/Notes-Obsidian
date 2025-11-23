@@ -17,7 +17,8 @@
 - [[5. Critical Thinking]]
 ## IT Fundamentals (CSIT 112)
 
-### Syllabus:[[ IT Fundamentals]]
+### Syllabus:
+#### [[IT Fundamentals]]
 
 ### Books: <br>
 - [[Capron and Johnson - Computers - Tools for an Information Age.pdf]]
