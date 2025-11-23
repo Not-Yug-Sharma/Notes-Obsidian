@@ -76,4 +76,4 @@
 ### Chapters:
 - 1. Introduction to Algorithms and C
 - 2. Basic of C
-- 3. Arrays, 
+- 3. Arrays, Strings and Sorting Te
