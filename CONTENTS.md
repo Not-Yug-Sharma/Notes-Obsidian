@@ -62,5 +62,5 @@
 - [[3. Bipolar Junction Transistor]]
 - [[4. Field Effect Transistor]]
 - [[5. Amplifiers]]
-- 6. Oscillators
-- 7. Regulated Power Supplies
+- [[6. Oscillators]]
+- [[7. Regulated Power Supplies]]
