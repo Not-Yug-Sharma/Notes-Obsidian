@@ -57,8 +57,8 @@
 - [[Malvino - Electronic Principles.pdf]]
 - [[Mehta - Principles of Electronics.pdf]]
 ### Chapters:
-- 1. Circuit Analysis
-- 2. Semiconductors
+- [[1. Circuit Analysis]]
+- [[2. Semiconductors]]
 - 3. Bipolar Junction Transistor
 - 4. Field Effect Transistor
 - 5. Amplifiers
