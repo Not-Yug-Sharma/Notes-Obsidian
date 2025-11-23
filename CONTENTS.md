@@ -27,4 +27,5 @@
 - 3. Data
 - 4. Input Devices
 - 5. Output Methods, Devices and Media
-- 6. Computer
+- 6. Computer Storage
+- 7. The Binary Sys
