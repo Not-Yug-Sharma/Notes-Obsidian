@@ -40,7 +40,7 @@
 ### Syllabus: 
 #### [[Calculus and Analytical Geometry.pdf]]
 
-#### Books:
+### Books:
 - [[Bartle and Sherbert - Introduction to Real Analysis.pdf]]
 - [[Thomas and Finney - Calculus and Analytic Geometry.pdf]]
 
