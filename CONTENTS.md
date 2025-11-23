@@ -75,9 +75,9 @@
 - [[Kanetkar - Let Us C.pdf]]
 ### Chapters:
 - 1. [[1. Introduction to Algorithms and C]]
-- 2. Basic of C
-- 3. Arrays, Strings and Sorting Techniques
-- 4. Functions, Storage Classes and Recursion
+- [[2. Basic of C]]
+- [[3. Arrays, Strings and Sorting Techniques]]
+- [[4. Functions, Storage Classes and Recursion]]
 - 5. Structure and Union
 - 6. Pointers and File Handling
 - 7. Link Lists
