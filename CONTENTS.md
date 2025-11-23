@@ -40,3 +40,4 @@
 ### Syllabus: [[Calculus and Analytical Geometry.pdf]]
 
 #### Books:
+- Bartle
