@@ -1,7 +1,7 @@
 <a href="https://gandakiacademy.edu.np/"><img src="https://gandakiacademy.edu.np/assets/img/gains-logo-name.svg"> </a>
 
 
-# Files will look weird while viewing directly through github
+# Files will look weird while viewing directly through GitHub. This is because all Obsidian files are Markdown files
 
 # Not my official Git account.
 # Who Am I?
