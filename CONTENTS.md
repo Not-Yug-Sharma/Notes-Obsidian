@@ -14,4 +14,4 @@
 [[5. Critical Thinking]]<br>
 # IT Fundamentals (CSIT 112)
 
-Syllabus:[[ IT Fundamental
+## Syllabus:[[ IT Fundamentals]]
