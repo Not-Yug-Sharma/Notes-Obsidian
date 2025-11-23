@@ -2,7 +2,8 @@
 # SEM-I
 ## English Grammar and Composition (CSIT 111)
 
-### Syllabus: [[English Grammar and Composition.pdf]]<br>
+### Syllabus:
+#### [[English Grammar and Composition.pdf]]<br>
 
 ### Books: <br>
 - [[CSIT-Notes/SEM I/Books/113- Calculus and Analytical Geometry/Llyod and Day-Active Grammar-Level 3.pdf|Llyod and Day-Active Grammar-Level 3]]<br>
