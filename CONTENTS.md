@@ -63,4 +63,4 @@
 - 4. Field Effect Transistor
 - 5. Amplifiers
 - 6. Oscillators
-- 7. Regula
+- 7. Regulated Power Supplies
