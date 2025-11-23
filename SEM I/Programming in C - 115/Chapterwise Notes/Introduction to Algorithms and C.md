@@ -11,5 +11,7 @@ C tokens are the smallest units of a C program that hold meaning to the compiler
 	2. Keywords:
 		- Reserved words that have predefined meaning and function that cannot be changed.
 		- Keywords must always be written in lower-case.
-		- Example: int, char, stri
+		- Example: int, char, string, float etc.
+	3. Constants:
+		- User-defined values that do not change througho
 		
