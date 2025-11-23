@@ -58,4 +58,5 @@
 - [[Mehta - Principles of Electronics.pdf]]
 ### Chapters:
 - 1. Circuit Analysis
-- 2. Semi
+- 2. Semiconductors
+- 3. Bipolar Ju
