@@ -23,4 +23,5 @@
 - [[Capron and Johnson - Computers - Tools for an Information Age.pdf]]
 ### Chapters:
 - 1. Computer Concepts
-- 2. 
+- 2. Computer Hardware
+- 3. Dat
