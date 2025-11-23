@@ -7,5 +7,9 @@ C tokens are the smallest units of a C program that hold meaning to the compiler
 			- An identifier should only consist of alphabets(a-z or A-Z), numbers(0-9) and underscore( _ ).
 			- An identifier must start with an alphabet(a-z or A-Z).
 			- Generally Identifiers are case sensitive, i.e. Ram is not the same as ram.
-			- <b>KEY
+			- <b>KEYWORDS</b> cannot be used as identifiers.
+
+
+
+	2. Keywords:
 		
