@@ -30,4 +30,5 @@
 - 6. Computer Storage
 - 7. The Binary System
 - 8. Programming Languages
-- 9. 
+- 9. Data Files
+- 10. Simple T
