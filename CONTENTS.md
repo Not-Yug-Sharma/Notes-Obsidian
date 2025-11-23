@@ -40,4 +40,5 @@
 ### Syllabus: [[Calculus and Analytical Geometry.pdf]]
 
 #### Books:
-- Bartle
+- [[Bartle and Sherbert - Introduction to Real Analysis.pdf]]
+- Thomas
