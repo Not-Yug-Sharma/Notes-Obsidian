@@ -75,4 +75,5 @@
 - [[Kanetkar - Let Us C.pdf]]
 ### Chapters:
 - 1. Introduction to Algorithms and C
-- 2, 
+- 2. Basic of C
+- 3. Arrays, 
