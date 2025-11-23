@@ -70,4 +70,5 @@
 #### [[Programming Fundamentals and C Programming.pdf]]
 
 ### Books
-- Balagurusamy
+- [[Balagurusamy - Programming in ANSI C.pdf]]
+- Cormen
