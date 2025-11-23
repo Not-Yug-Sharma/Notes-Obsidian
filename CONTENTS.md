@@ -74,4 +74,5 @@
 - [[Cormen, Leiserson, Rivest and Stein - Introduction to Algorithms.pdf]]
 - [[Kanetkar - Let Us C.pdf]]
 ### Chapters:
-- 1. Introduction 
+- 1. Introduction to Algorithms and C
+- 2, 
