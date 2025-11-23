@@ -54,4 +54,5 @@
 #### [[Electronic Principles.pdf]]
 
 ### Books:
-- Malvino
+- [[Malvino - Electronic Principles.pdf]]
+- Mehta
