@@ -49,4 +49,4 @@
 
 
 
-## Electronic Principles
+## Electronic Principles (CSIT 114)
