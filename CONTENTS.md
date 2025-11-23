@@ -82,4 +82,4 @@
 - 6. Pointers and File Handling
 - 7. Link Lists
 - 8. Stacks
-- 9. 
+- 9. Queues
