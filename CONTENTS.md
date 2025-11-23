@@ -38,3 +38,5 @@
 
 ## Calculus and Analytical Geometry (CSIT 113)
 ### Syllabus: [[Calculus and Analytical Geometry.pdf]]
+
+#### Books:
