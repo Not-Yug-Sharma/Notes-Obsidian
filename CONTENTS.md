@@ -22,9 +22,9 @@
 ### Books: <br>
 - [[Capron and Johnson - Computers - Tools for an Information Age.pdf]]
 ### Chapters:
-- 1. Computer Concepts
-- 2. Computer Hardware
-- 3. Data
+- [[1. Computer Concepts]]
+- [[2. Computer Hardware]]
+[[3. Data]]
 - 4. Input Devices
 - 5. Output Methods, Devices and Media
 - 6. Computer Storage
