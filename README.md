@@ -2,7 +2,7 @@
 
 
 # Files will look weird while viewing directly through GitHub. 
-This is because though both accept .md files GitHub and Obsidian defer on some aspects. 
+This is because though both are markdown files GitHub's .md need to follow rules of  
 
 # Not my official Git account.
 # Who Am I?
