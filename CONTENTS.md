@@ -81,5 +81,5 @@
 - [[5. Structure and Union]]
 - [[6. Pointers and File Handling]]
 - [[7. Link Lists]]
-- 8. Stacks
-- 9. Queues
+- [[8. Stacks]]
+- [[9. Queues]]
