@@ -16,4 +16,5 @@ C tokens are the smallest units of a C program that hold meaning to the compiler
 		- User-defined values that do not change throughout the code execution are called constant values.
 	4. Strings:
 		- Sequence of characters, numbers, symbols and space( ).
-		
+	5. Operators:
+		- Special symbols that perform
