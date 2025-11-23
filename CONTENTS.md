@@ -41,4 +41,4 @@
 
 #### Books:
 - [[Bartle and Sherbert - Introduction to Real Analysis.pdf]]
-- Thomas
+- [[Thomas and Finney - Calculus and Analytic Geometry.pdf]]
