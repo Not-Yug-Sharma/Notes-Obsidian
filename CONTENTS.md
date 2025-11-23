@@ -35,4 +35,4 @@
 - [[11. Common Applications of Computer Systems]]
 - [[12. Networking and The Internet]]
 
-# Calculus 
+## Calculus and Analytical Geometery 
