@@ -27,9 +27,9 @@
 - [[3. Data]]
 - [[4. Input Devices]]
 - [[5. Output Methods, Devices and Media]]
-- 6. Computer Storage
-- 7. The Binary System
-- 8. Programming Languages
+- [[6. Computer Storage]]
+- [[7. The Binary System]]
+- [[8. Programming Languages]]
 - 9. Data Files
 - 10. Simple Telecommunications
 - 11. Common Applications of Computer Systems
