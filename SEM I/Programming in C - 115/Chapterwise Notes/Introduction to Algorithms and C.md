@@ -17,4 +17,5 @@ C tokens are the smallest units of a C program that hold meaning to the compiler
 	4. Strings:
 		- Sequence of characters, numbers, symbols and space( ).
 	5. Operators:
-		- Special symbols that perform
+		- Special symbols that perform operations.
+		- Example: +, -, *, /, \, 
