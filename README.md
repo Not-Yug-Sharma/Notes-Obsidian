@@ -2,7 +2,7 @@
 
 
 # Files will look weird while viewing directly through GitHub. 
-This is because though both are markdown files GitHub's .md need to follow rules of GFM or GitHub Flavored Markdown, whereas Obsidian has no strict bound
+This is because though both are markdown files GitHub's .md need to follow rules of GFM or GitHub Flavored Markdown, whereas Obsidian has no strict boundaries for use of Markdown. Best option would be to read only the README.md file on the websi
 
 # Not my official Git account.
 # Who Am I?
