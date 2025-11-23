@@ -1,6 +1,7 @@
 <a href="https://gandakiacademy.edu.np/"><img src="https://gandakiacademy.edu.np/assets/img/gains-logo-name.svg"> </a>
 <br><br>
 <hr color="red">
+<br>
 
 # If you like seeing organized things avoid other files other than README.md on GitHub's website
 
