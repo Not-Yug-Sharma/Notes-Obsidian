@@ -36,4 +36,4 @@
 - [[12. Networking and The Internet]]
 
 ## Calculus and Analytical Geometry (CSIT 113)
-### Syllabus: [[Calculus.pdf]]
+### Syllabus: [[Calculus and Analytical Geometry.pdf]]
