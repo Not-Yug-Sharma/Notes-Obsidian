@@ -24,4 +24,6 @@
 ### Chapters:
 - 1. Computer Concepts
 - 2. Computer Hardware
-- 3. Dat
+- 3. Data
+- 4. Input Devices
+- 
