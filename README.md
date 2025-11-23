@@ -5,7 +5,7 @@
 # <p align="center">Files will look weird while viewing directly through GitHub.</p> 
 This is because though both are markdown files GitHub's .md need to follow rules of GFM or GitHub Flavored Markdown, whereas Obsidian has no strict boundaries for use of Markdown. Best option would be to read only the README.md file on the website and other notes after cloning the repository.<br>
 Why not format all notes like this README file you ask?<br>
-That is because this simple looking file has a lot of formatting.
+That is because this simple looking file has a lot of formatting. All line-breaks are added manually using the \<br> tag. Even writing the \<B
 <hr color="red">
 # Not my official Git account.
 # Who Am I?
