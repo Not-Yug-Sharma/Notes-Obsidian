@@ -9,7 +9,7 @@ That is because this simple looking file has a lot of formatting. All line-break
 <hr color="red">
 
 # Do keep this in mind
-Any sort of program w
+Any sort of program will not be viewable directly on the Obsidian app. All written and executable codes will be available here in the repo but it needs to 
 # Not my official Git account.
 # Who Am I?
 My name is Yug Sharma Timilsina, a CSIT student currently studying in Gandaki Academy Of Interdisciplinary Studies or GAINS for short. To know more about the college use the logo above, it is hyperlinked to the college's official website.
