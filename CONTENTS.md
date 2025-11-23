@@ -14,4 +14,4 @@ Chapters:
 	[[5. Critical Thinking]]<br>
 # IT Fundamentals (CSIT 112)
 
-Books
+Syllabus: 
