@@ -1,4 +1,8 @@
 <a href="https://gandakiacademy.edu.np/"><img src="https://gandakiacademy.edu.np/assets/img/gains-logo-name.svg"> </a>
+
+
+# Files will look weird while viewing directly through github
+
 # Not my official Git account.
 # Who Am I?
 My name is Yug Sharma Timilsina, a CSIT student currently studying in Gandaki Academy Of Interdisciplinary Studies or GAINS for short. To know more about the college use the logo above, it is hyperlinked to the college's official website.
