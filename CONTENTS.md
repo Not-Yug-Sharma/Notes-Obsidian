@@ -53,4 +53,5 @@
 ### Syllabus:
 #### [[Electronic Principles.pdf]]
 
-### Books
+### Books:
+- Malvino
