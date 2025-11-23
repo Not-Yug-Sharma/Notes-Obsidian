@@ -66,3 +66,5 @@
 - [[7. Regulated Power Supplies]]
 
 ## Programming Fundamentals and C Programming
+### Syllabus:
+####
