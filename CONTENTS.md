@@ -57,4 +57,5 @@
 - [[Malvino - Electronic Principles.pdf]]
 - [[Mehta - Principles of Electronics.pdf]]
 ### Chapters:
-- 1. CIrcuit 
+- 1. Circuit Analysis
+- 2. Semi
