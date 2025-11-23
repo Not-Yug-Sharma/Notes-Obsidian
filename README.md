@@ -58,6 +58,9 @@ If you want constant updates you can do the following:
 
 # Do you <i>have</i> to do this?
 Yes and no. Yes because after starting off in the field of <b>IT</b> it is absolutely necessary to be aware about and know how to use git. So better start now rather than to worry about it later.<br><hr><br> No because you are not required to learn from my notes. I am also doing this to be familiar to git and be able to use it naturally.
+
+# Empty files: 
+
 # Final remarks: 
 
 If you have any problems while setting things up you can contact me at anytime during college hours or message me through Insta or Messenger <i> though I don't quite respond to unknown dms</i>: 
