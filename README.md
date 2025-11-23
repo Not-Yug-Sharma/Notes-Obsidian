@@ -1,7 +1,7 @@
 <a href="https://gandakiacademy.edu.np/"><img src="https://gandakiacademy.edu.np/assets/img/gains-logo-name.svg"> </a>
 <br><br>
 <hr color="red">
-# If you like seeing organized things avoid other files other than REA
+# If you like seeing organized things avoid other files other than README.md on GitHubs website
 # <p align="center">Files will look weird while viewing directly through GitHub.</p> 
 This is because though both are markdown files GitHub's .md need to follow rules of GFM or GitHub Flavored Markdown, whereas Obsidian has no strict boundaries for use of Markdown. Best option would be to read only the README.md file on the website and other notes after cloning the repository.<br>
 <b><i>Why not format all notes like this README file you ask?</i></b><br>
