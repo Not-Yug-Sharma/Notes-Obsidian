@@ -60,7 +60,8 @@ If you want constant updates you can do the following:
 Yes and no. Yes because after starting off in the field of <b>IT</b> it is absolutely necessary to be aware about and know how to use git. So better start now rather than to worry about it later.<br><hr><br> No because you are not required to learn from my notes. I am also doing this to be familiar to git and be able to use it naturally.
 
 # Empty files: Is my Obsidian broken?
-No, well maybe. I all files are shown as empty then maybe, but most files do have something on them. chapters not covered in class will be empty as they are <strong>NOT COVERED</strong>. They will be updated as time 
+No, well maybe. I all files are shown as empty then maybe, but most files do have something on them. chapters not covered in class will be empty as they are <strong>NOT COVERED</strong>. They will be updated as time goes on.
+Thos 
 
 # Final remarks: 
 
