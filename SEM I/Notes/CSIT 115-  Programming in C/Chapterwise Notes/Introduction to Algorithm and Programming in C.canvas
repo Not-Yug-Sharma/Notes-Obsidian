@@ -5,14 +5,14 @@
 		{"id":"4a565e637e1f379d","type":"text","text":"- char\n- int\n- float\n- double\n- bool\n- void","x":-540,"y":-54,"width":140,"height":194},
 		{"id":"279de4e44faeecce","type":"text","text":"Derived Data Types","x":-220,"y":-175,"width":160,"height":55},
 		{"id":"734572900da44ff2","type":"text","text":"Data types","x":-198,"y":-340,"width":118,"height":60},
-		{"id":"fa53372fe78e4c84","type":"text","text":"- Array\n- Pointer\n- Function","x":-198,"y":0,"width":138,"height":100},
+		{"id":"fa53372fe78e4c84","type":"text","text":"- Array\n- Pointer\n- Function","x":-220,"y":0,"width":160,"height":100},
 		{"id":"bd5f904abd13f3ed","type":"text","text":"User Defined Data Types","x":100,"y":-175,"width":220,"height":55},
 		{"id":"a4a6c6391b8fca38","x":140,"y":0,"width":140,"height":100,"type":"text","text":"- Structure\n- Union\n- Enum"}
 	],
 	"edges":[
 		{"id":"6501334affb28f8b","fromNode":"734572900da44ff2","fromSide":"bottom","toNode":"716190fcfdfeaba7","toSide":"top"},
 		{"id":"87539176b216a1d7","fromNode":"734572900da44ff2","fromSide":"bottom","toNode":"279de4e44faeecce","toSide":"top"},
-		{"id":"ad6a44b5a088c7e9","fromNode":"734572900da44ff2","fromSide":"bottom","toNode":"bd5f904abd13f3ed","toSide":"top"},
+		{"id":"ad6a44b5a088c7e9","fromNode":"734572900da44ff2","fromSide":"bottom","toNode":"bd5f904abd13f3ed","toSide":"left"},
 		{"id":"aff59730d1a5aec4","fromNode":"716190fcfdfeaba7","fromSide":"bottom","toNode":"4a565e637e1f379d","toSide":"top"},
 		{"id":"fd94b14765a760a7","fromNode":"279de4e44faeecce","fromSide":"bottom","toNode":"fa53372fe78e4c84","toSide":"top"},
 		{"id":"16a07e1ec6c872ba","fromNode":"bd5f904abd13f3ed","fromSide":"bottom","toNode":"a4a6c6391b8fca38","toSide":"top"}
