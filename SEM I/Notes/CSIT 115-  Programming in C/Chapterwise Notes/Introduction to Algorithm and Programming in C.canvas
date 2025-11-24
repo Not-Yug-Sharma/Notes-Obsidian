@@ -7,7 +7,7 @@
 		{"id":"bd5f904abd13f3ed","type":"text","text":"User Defined Data Types","x":260,"y":-195,"width":220,"height":55},
 		{"id":"4a565e637e1f379d","type":"text","text":"- char\n- int\n- float\n- double\n- bool\n- void","x":-380,"y":-74,"width":140,"height":194},
 		{"id":"fa53372fe78e4c84","type":"text","text":"- Array\n- Pointer\n- Function","x":-38,"y":-20,"width":138,"height":100},
-		{"id":"a4a6c6391b8fca38","x":380,"y":-64,"width":120,"height":144,"type":"text","text":"- Structure\n- Union\n- Enum"}
+		{"id":"a4a6c6391b8fca38","x":300,"y":-20,"width":140,"height":100,"type":"text","text":"- Structure\n- Union\n- Enum"}
 	],
 	"edges":[
 		{"id":"6501334affb28f8b","fromNode":"734572900da44ff2","fromSide":"bottom","toNode":"716190fcfdfeaba7","toSide":"top"},
