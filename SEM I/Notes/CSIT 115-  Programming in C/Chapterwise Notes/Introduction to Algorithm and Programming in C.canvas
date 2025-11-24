@@ -10,9 +10,9 @@
 		{"id":"a4a6c6391b8fca38","x":140,"y":0,"width":140,"height":100,"type":"text","text":"- Structure\n- Union\n- Enum"}
 	],
 	"edges":[
-		{"id":"6501334affb28f8b","fromNode":"734572900da44ff2","fromSide":"bottom","toNode":"716190fcfdfeaba7","toSide":"top"},
+		{"id":"6501334affb28f8b","fromNode":"734572900da44ff2","fromSide":"left","toNode":"716190fcfdfeaba7","toSide":"right"},
 		{"id":"87539176b216a1d7","fromNode":"734572900da44ff2","fromSide":"bottom","toNode":"279de4e44faeecce","toSide":"top"},
-		{"id":"ad6a44b5a088c7e9","fromNode":"734572900da44ff2","fromSide":"bottom","toNode":"bd5f904abd13f3ed","toSide":"left"},
+		{"id":"ad6a44b5a088c7e9","fromNode":"734572900da44ff2","fromSide":"bottom","toNode":"7a818e1a61968ac9","toSide":"top"},
 		{"id":"aff59730d1a5aec4","fromNode":"716190fcfdfeaba7","fromSide":"bottom","toNode":"4a565e637e1f379d","toSide":"top"},
 		{"id":"fd94b14765a760a7","fromNode":"279de4e44faeecce","fromSide":"bottom","toNode":"fa53372fe78e4c84","toSide":"top"},
 		{"id":"16a07e1ec6c872ba","fromNode":"bd5f904abd13f3ed","fromSide":"bottom","toNode":"a4a6c6391b8fca38","toSide":"top"}
