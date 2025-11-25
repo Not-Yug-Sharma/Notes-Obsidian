@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"18166412e66425d0","type":"text","text":"# Constants","x":100,"y":-64,"width":312,"height":60},
+		{"id":"18166412e66425d0","type":"text","text":"# Constants","x":100,"y":-55,"width":180,"height":60},
 		{"id":"81c288c31362ad87","type":"text","text":"# C Tokens","x":-60,"y":-260,"width":160,"height":60},
 		{"id":"139449680582d13e","type":"text","text":"# Identifiers","x":-547,"y":-55,"width":187,"height":60},
 		{"id":"f29668a970b1a717","type":"text","text":"# Keywords","x":-200,"y":-55,"width":180,"height":60}
