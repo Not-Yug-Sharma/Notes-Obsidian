@@ -79,7 +79,9 @@ If you have any problems while setting things up you can contact me at anytime d
 
 
 
-# OR if you want to make a Organized Discord Server just say so on Insta 
+# OR 
+if you want to make a Organized Discord Server just say so on Insta or Messenger
+
 
 
 
