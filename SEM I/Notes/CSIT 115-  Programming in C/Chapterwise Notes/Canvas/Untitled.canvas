@@ -7,5 +7,9 @@
 		{"id":"374e9d2a75128bc6","x":300,"y":-55,"width":140,"height":60,"type":"text","text":"# Strings"},
 		{"id":"b1fffed38b23a7cd","x":580,"y":-55,"width":160,"height":60,"type":"text","text":"# Operators"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"4a086e7b61afa142","fromNode":"81c288c31362ad87","fromSide":"left","toNode":"139449680582d13e","toSide":"top"},
+		{"id":"a80af61974ebbe6b","fromNode":"81c288c31362ad87","fromSide":"bottom","toNode":"f29668a970b1a717","toSide":"top"},
+		{"id":"20be2f04bba60130","fromNode":"81c288c31362ad87","fromSide":"bottom","toNode":"18166412e66425d0","toSide":"top"}
+	]
 }
