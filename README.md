@@ -57,7 +57,10 @@ If you want constant updates you can do the following:
 ```
 ---------------------------------------------------------------------------------
 @echo off
-cd /d "C:\Path\To\Your\Repo" <br>git pull<br>---------------------------------------------------------------------------------<br>#if you downloaded at the default Obsidian Vault<br>@echo off<br>cd /d "C:\Users\(Your User folder)\Documents\Obsidian Vault" <br>git pull<br>---------------------------------------------------------------------------------<br> And save it as a .bat file (Use note_update.bat for future ease.)</li> <li>Open Run(Win+R) and go to shell:startup</li> <li> Paste a shortcut to the .bat there.</li> </ul> </li></ol>
+cd /d "C:\Path\To\Your\Repo" 
+git pull
+---------------------------------------------------------------------------------
+#if you downloaded at the default Obsidian Vault<br>@echo off<br>cd /d "C:\Users\(Your User folder)\Documents\Obsidian Vault" <br>git pull<br>---------------------------------------------------------------------------------<br> And save it as a .bat file (Use note_update.bat for future ease.)</li> <li>Open Run(Win+R) and go to shell:startup</li> <li> Paste a shortcut to the .bat there.</li> </ul> </li></ol>
 
 
 # <p align="center">Happy Learning!</p>
