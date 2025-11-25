@@ -7,7 +7,7 @@
 		{"id":"f29668a970b1a717","type":"text","text":"# Keywords","x":-320,"y":-55,"width":160,"height":52},
 		{"id":"374e9d2a75128bc6","type":"text","text":"# Strings","x":300,"y":-55,"width":140,"height":60},
 		{"id":"b1fffed38b23a7cd","type":"text","text":"# Operators","x":580,"y":-55,"width":160,"height":60},
-		{"id":"3446267939d1df06","type":"text","text":"# [back to note](1. Introduction to Algorithms and C.md#c-token)\n","x":-570,"y":-460,"width":230,"height":170}
+		{"id":"3446267939d1df06","type":"text","text":"# [back to note](\"1. Introduction to Algorithms and C.md#c-token)\n","x":-570,"y":-460,"width":230,"height":170}
 	],
 	"edges":[
 		{"id":"4a086e7b61afa142","fromNode":"81c288c31362ad87","fromSide":"left","toNode":"139449680582d13e","toSide":"top"},
