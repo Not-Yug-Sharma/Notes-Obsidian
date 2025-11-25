@@ -55,7 +55,8 @@ You need the following before integrating this Repository:
 If you want constant updates you can do the following:
 <ol><li>Manual method: <br> On command prompt cd to the directory(location) where you previously cloned the repo. Then just enter "git pull". If there are changes this will automatically apply them to your "Downloaded" repo as well. While using <u>git pull</u> only the changes will be downloaded.</li> <li> Automatic "git pull on startup": <br><ul><li> Open notepad and paste the following : <br>---------------------------------------------------------------------------------<br>@echo off<br>cd /d "C:\Path\To\Your\Repo" <br>git pull<br>---------------------------------------------------------------------------------<br>
 <h4>
-# if you downloaded at the default Obsidian Vault<br>@echo off<br>cd /d "C:\Users\(Your User folder)\Documents\Obsidian Vault" <br>
+# if you downloaded at the default Obsidian Vault</h4>
+<br>@echo off<br>cd /d "C:\Users\(Your User folder)\Documents\Obsidian Vault" <br>
 git pull<br>
 ---------------------------------------------------------------------------------<br> 
 And save it as a .bat file (Use note_update.bat for future ease.)</li> 
