@@ -1,6 +1,7 @@
 {
 	"nodes":[
 		{"id":"86ed78a8e399b338","type":"group","x":-680,"y":-280,"width":1440,"height":305,"label":"C-Tokens"},
+		{"id":"276c524960df5b86","x":-508,"y":-457,"width":400,"height":400,"type":"file","file":"CSIT-Notes/SEM I/Notes/CSIT 115-  Programming in C/Chapterwise Notes/1. Introduction to Algorithms and C.md"},
 		{"id":"18166412e66425d0","type":"text","text":"# Constants","x":0,"y":-55,"width":160,"height":60},
 		{"id":"81c288c31362ad87","type":"text","text":"# C Tokens","x":0,"y":-260,"width":160,"height":60},
 		{"id":"139449680582d13e","type":"text","text":"# Identifiers","x":-660,"y":-55,"width":180,"height":60},
