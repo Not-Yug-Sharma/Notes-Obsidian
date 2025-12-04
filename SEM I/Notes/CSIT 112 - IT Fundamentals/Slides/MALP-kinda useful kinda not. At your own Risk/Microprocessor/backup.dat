@@ -1,0 +1,6 @@
+true
+MVI A, 49H
+STA 2501H
+LXI H
+MVI A
+HLT
