@@ -56,7 +56,8 @@ If you want constant updates you can do the following:
 ---------------------------------------------------------------------------------
 @echo off
 cd /d "C:\Path\To\Your\Repo"git pull
----------------------------------------------------------------------------------<br>
+---------------------------------------------------------------------------------
+```
 <h4>
 # if you downloaded at the default Obsidian Vault</h4><br>---------------------------------------------------------------------------------<br>@echo off<br>cd /d "C:\Users\(Your User folder)\Documents\Obsidian Vault" <br>
 git pull<br>
