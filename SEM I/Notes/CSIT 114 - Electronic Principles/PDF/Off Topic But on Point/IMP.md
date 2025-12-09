@@ -1,1 +1,1 @@
-# The Following are the notes based on syllabus of Pokhara University. ***NOT IMPORTANT*** how I got the
+# The Following are the notes based on syllabus of Pokhara University. ***NOT IMPORTANT*** how I got them, refer to them if you wa
