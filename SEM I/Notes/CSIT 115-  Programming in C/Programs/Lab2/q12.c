@@ -10,4 +10,6 @@ int main(){
         sum += (int)n % 10; // sum = sum + (n % 10);
         n = (int)n / 10;
     }
+    printf("Sum of digits: %d\n", sum);
+    return 0;
 }
