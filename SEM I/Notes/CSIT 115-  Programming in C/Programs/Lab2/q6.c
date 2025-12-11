@@ -7,7 +7,7 @@ int main(){
     float percentage;
     printf("Enter marks obtained in 5 subjects: ");
     for (int i = 0; i < 5; i++){
-        scanf("%d", &marks[i]);
+        scanf("%f", &marks[i]);
         total += marks[i];//basically total = total + marks[i];
     }
     percentage = (total / 500.0) * 100;
