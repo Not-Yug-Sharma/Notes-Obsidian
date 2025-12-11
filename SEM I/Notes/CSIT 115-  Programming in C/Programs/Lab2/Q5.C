@@ -12,4 +12,5 @@ int main(){
         printf("You are not eligible to vote.\n");
     }
     return 0;
+
 }
