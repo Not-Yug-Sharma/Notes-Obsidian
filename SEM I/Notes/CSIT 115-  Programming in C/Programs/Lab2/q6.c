@@ -11,7 +11,7 @@ int main(){
         total += marks[i];//basically total = total + marks[i];
     }
     percentage = (total / 500.0) * 100;
-    printf("Total Marks: %d\n", total);
+    printf("Total Marks: %d/500\n", total);
     printf("Percentage: %.2f%%\n", percentage);
     switch((int)(percentage / 10)){
         case 10:
