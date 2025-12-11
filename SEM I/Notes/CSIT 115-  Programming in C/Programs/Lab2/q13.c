@@ -2,14 +2,14 @@
 #include<stdio.h>
 
 int main(){
-    int n, original, reversed = 0, digit;
+    int n, original, reversed = 0;
     printf("Enter an integer: ");
     scanf("%d", &n);
     original = n;
 
     while (n != 0){
-        digit = n % 10;
-        reversed = reversed * 10 + digit;
+        
+        reversed = reversed * 10 +  (n % 10);
         n = n / 10;
     }
 
