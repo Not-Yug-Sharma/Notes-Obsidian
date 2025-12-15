@@ -17,3 +17,5 @@
 ### 3. What are some ways that athletes pay for success?
 
 ### 4. How do parents of child athletes pay for success? Consider financial, physical, and psychological costs in your response.
+
+## Solution
