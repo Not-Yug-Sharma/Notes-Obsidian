@@ -19,3 +19,4 @@
 ### 4. How do parents of child athletes pay for success? Consider financial, physical, and psychological costs in your response.
 
 ## Solution
+###  
