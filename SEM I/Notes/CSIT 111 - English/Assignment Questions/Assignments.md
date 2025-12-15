@@ -3,7 +3,8 @@
 ## Question:
 ### What kind of topics should be avoided when one meets someone for the first time? Why do you think such topics need to be avoided?
 
-##
+## Solution:
+
 
 
 # Assignment 2
