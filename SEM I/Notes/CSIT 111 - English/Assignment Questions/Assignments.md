@@ -9,7 +9,7 @@
 
 # Assignment 2
 
-#
+## Question:
 ### 1. Do you think competing in sports is good for young children? Explain.
 
 ### 2. Do you think coaches and parents have a responsibility to try to stop children from getting hurt while doing sports? why or why not?
