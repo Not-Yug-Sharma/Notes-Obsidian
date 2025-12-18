@@ -5,7 +5,7 @@ following series
 - 1/1!+2/2!+3/3!+…………..+n/n!*/
 
 #include <stdio.h>
-
+#include <math.h>
 int main(){
     int n;
     long long fact, sum1 = 0, sum2 = 0;
