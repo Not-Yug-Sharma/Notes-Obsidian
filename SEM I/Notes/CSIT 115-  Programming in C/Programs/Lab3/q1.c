@@ -11,10 +11,8 @@ int main(){
         if (num %i==0)
             factor++;
     }
-    if (num<=1){
-        printf("The number is not prime.");
-    }
-    else if(num=1)
+    
+    if(num==1)
         printf("Neither Prime nor Composite.");
   
     else if (factor==2)
