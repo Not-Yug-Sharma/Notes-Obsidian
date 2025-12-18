@@ -7,6 +7,7 @@ int main(){
         printf("%d) ", i + 1);
         scanf("%f", &arr[i]);
         if (((int)arr[i] % 3 == 0) || ((int)arr[i] % 5 == 0)) {
+            printf(" +%.2f ",arr[i]);
             sum += arr[i];
         }
     }
