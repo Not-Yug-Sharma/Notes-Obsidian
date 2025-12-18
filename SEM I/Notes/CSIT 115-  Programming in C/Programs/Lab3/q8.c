@@ -15,6 +15,6 @@ int main(){
             printf(" +%.2f ",arr[i]);
         }
     }
-    printf("The sum of numbers divisible by either 3 or 5 is: %.2f\n", sum);
+    printf("= %.2f\n", sum);
     return 0;
 }
