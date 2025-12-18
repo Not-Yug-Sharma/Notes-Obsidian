@@ -11,6 +11,10 @@ int main(){
             sum += arr[i];
         }
     }
+    for (int i = 0; i < 10; i++) {
+        if (((int)arr[i] % 3 == 0) || ((int)arr[i] % 5 == 0)) {
+            printf(" +%.2f ",arr[i]);
+        }
     printf("The sum of numbers divisible by either 3 or 5 is: %.2f\n", sum);
     return 0;
 }
