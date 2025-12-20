@@ -12,9 +12,9 @@ int main(){
     printf("Enter a number to search: ");
     scanf("%d", &search);
     int index=0;
-
+    printf("Checking progress: ");
     for (int i = 0; i < 10; i++) {
-       printf("Checking progress: %d/10\n", i+1);
+       printf("%d\r", i+1);
        if (arr[i] == search) {
            index = i + 1;
     }
