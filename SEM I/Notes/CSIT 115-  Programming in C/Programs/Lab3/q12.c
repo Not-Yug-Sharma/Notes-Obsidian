@@ -19,11 +19,12 @@ int main(){
            index = i + 1;
            break;
     }
+}
     if (index != 0) {
         printf("Number %d found in the array at position %d index=%d.\n", search, index, index - 1);
         } else {
         printf("Number %d not found in the array.\n", search);
         }
-    }
+    
     return 0;   
 }
