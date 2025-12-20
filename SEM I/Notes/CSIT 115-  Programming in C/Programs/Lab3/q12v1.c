@@ -37,7 +37,7 @@ int main() {
     printf("\n\n");
     
     if (index != -1) {
-        printf("Number %d found in the array at position %d index=%d.\n", search, index + 1, index);
+        printf("Number %d found in the array at position %d index=arr[%d].\n", search, index + 1, index);
     } else {
         printf("Number %d not found in the array.\n", search);
     }
