@@ -17,7 +17,6 @@ int main(){
        printf("Checking progress: %d/10\n", i+1);
        if (arr[i] == search) {
            index = i + 1;
-           break;
     }
 }
     if (index != 0) {
