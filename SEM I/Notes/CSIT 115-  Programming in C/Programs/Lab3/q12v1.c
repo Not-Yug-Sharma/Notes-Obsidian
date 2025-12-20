@@ -16,7 +16,7 @@ int main() {
     printf("\n");
 
     for (int i = 0; i < 10; i++) {
-        printf("Checking progress: [");
+        printf("Checking: [");
         for (int j = 0; j < 10; j++) {
             if (j <= i) printf("#");
             else printf(".");
