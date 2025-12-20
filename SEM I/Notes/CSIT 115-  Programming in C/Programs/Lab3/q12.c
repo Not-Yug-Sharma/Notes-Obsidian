@@ -12,15 +12,15 @@ int main(){
     printf("Enter a number to search: ");
     scanf("%d", &search);
     int index=0;
-    printf("Checking progress: ");
+
     for (int i = 0; i < 10; i++) {
-       printf("%d\r", i+1);
+       printf("Checking progress: %d/10\n", i+1);
        if (arr[i] == search) {
            index = i + 1;
     }
 }
     if (index != 0) {
-        printf("\aNumber %d found in the array at position %d index=arr[%d].\n", search, index, index - 1);
+        printf("Number %d found in the array at position %d index=arr[%d].\n", search, index, index - 1);
         } else {
         printf("Number %d not found in the array.\n", search);
         }
