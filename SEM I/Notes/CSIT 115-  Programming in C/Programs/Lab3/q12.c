@@ -14,7 +14,7 @@ int main(){
     int index=0;
 
     for (int i = 0; i < 10; i++) {
-       printf("Checking progress: %d/10\r", i+1);
+       printf("Checking progress: %d/10\n", i+1);
        if (arr[i] == search) {
            index = i + 1;
            break;
