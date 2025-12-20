@@ -1,0 +1,307 @@
+1. //WAP to input any integer number and check it either it is prime or not.
+
+#include <stdio.h>
+
+
+int main(){
+    int num, factor=0;
+    printf("Enter an integer number: ");
+    scanf("%d", &num);
+    for (int i=1; i<=num;i++){
+        if (num %i==0)
+            factor++;
+    }
+    
+    if(num==1)
+        printf("Neither Prime nor Composite.");
+  
+    else if (factor==2)
+        printf("The number is prime.");
+    else
+        printf("The number is not prime.");
+
+        return 0;
+}
+_________________________________________________________________________________________________________________________________________________
+
+2. // WAP to input an integer number n and print all prime numbers from 1 upto n.
+
+#include <stdio.h>
+
+int main(){
+    int n, factor;
+    printf("Enter an integer number: ");
+    scanf("%d", &n);
+    printf("Prime numbers from 1 to %d are:\n", n);
+    
+    for (int num = 2; num <= n; num++) {
+        factor = 0;
+        for (int i = 1; i <= num; i++) {
+            if (num % i == 0)
+                factor++;
+        }
+        if (factor == 2) {
+            printf("%d \t", num);
+        }
+    }
+    printf("\n");
+    return 0;
+}
+_________________________________________________________________________________________________________________________________________________
+
+3. /*WAP to input an integer number n and calculate the sum of the
+following series
+- 1! + 2! + 3!+ …………….. +n!
+- 1+2^2+3^3+…………..+n^n
+- 1/1!+2/2!+3/3!+…………..+n/n!*/
+
+#include <stdio.h>
+#include <math.h>
+int main(){
+    int n;
+    long long fact, sum1 = 0, sum2 = 0;
+    double sum3 = 0.0;
+
+    printf("Enter an integer number: ");
+    scanf("%d", &n);
+
+    for (int i = 1; i <= n; i++) {
+        // Calculate factorial
+        fact = 1;
+        for (int j = 1; j <= i; j++) {
+            fact *= j;
+        }
+        sum1 += fact;               // Sum for 1! + 2! + ... + n!
+        sum2 += pow(i, i);         // Sum for 1 + 2^2 + ... + n^n
+        sum3 += (double)i / fact;   // Sum for 1/1! + 2/2! + ... + n/n!
+    }
+
+    for(int i=1; i<=n;i++){
+        printf("+%d! ",i);
+    }
+    printf("= %lld\n", sum1);
+    for (int i=1; i<=n;i++){
+        printf("(%d^%d) + ",i,i);
+    }
+    printf(" = %lld\n", sum2);
+    for (int i=1; i<=n;i++){
+        printf("(%d/%d!) + ",i,i);
+    }
+    printf("= %.9lf\n", sum3);
+
+    return 0;
+}
+_________________________________________________________________________________________________________________________________________________
+
+4. //WAP to input five integer numbers into an array and print them.
+
+#include <stdio.h>
+
+int main(){
+    int a[5];
+    printf("Enter five integer numbers:\n");
+    for (int i=0; i<5; i++){
+        printf("%d) ",i+1);
+        scanf("%d", &a[i]);
+    }
+    printf("The numbers are:\n");
+    for (int i=0; i<5; i++){
+        printf("%d\t", a[i]);
+    }
+}
+_________________________________________________________________________________________________________________________________________________
+
+5. /*WAP to input 10 integer numbers into an array and the sum and
+average of all array elements.*/
+
+#include <stdio.h>
+
+int main(){
+    int arr[10], sum = 0;
+    printf("Enter 10 integer numbers:\n");
+    for (int i = 0; i < 10; i++) {
+        printf("%d) ", i + 1);
+        scanf("%d", &arr[i]);
+        sum += arr[i];
+    }
+    printf("The sum of all array elements is: %d\n", sum);
+    printf("The average of all array elements is: %.2f\n", sum / 10.0);
+    return 0;
+}
+_________________________________________________________________________________________________________________________________________________
+
+6.// WAP to input 10 float numbers into an array and display them in reverse order
+#include <stdio.h>
+
+int main(){
+    float arr[10];
+    printf("Enter 10 float numbers:\n");
+    for (int i = 0; i < 10; i++) {
+        printf("%d) ", i + 1);
+        scanf("%f", &arr[i]);
+    }
+    printf("The numbers in reverse order are:\n");
+    for (int i = 9; i >= 0; i--) {
+        printf("%.2f\t", arr[i]);
+    }
+    return 0;
+}
+
+_________________________________________________________________________________________________________________________________________________
+
+7.// Write a program to count the number of even and odd elements in an integer array of size 10.
+#include <stdio.h>
+
+int main(){
+    int arr[10], even = 0, odd = 0;
+    printf("Enter 10 integer numbers:\n");
+    for (int i = 0; i < 10; i++) {
+        printf("%d) ", i + 1);
+        scanf("%d", &arr[i]);
+        if (arr[i] % 2 == 0) {
+            even++;
+        } else {
+            odd++;
+        }
+    }
+    printf("Number of even elements: %d\n", even);
+    printf("Number of odd elements: %d\n", odd);
+    return 0;
+}
+_________________________________________________________________________________________________________________________________________________
+
+8. //WAP to input 10 float numbers into an array calculate the sum of those numbers that are divisible by either 3 or 5.
+#include <stdio.h>
+int main(){
+    float arr[10], sum = 0.0;
+    printf("Enter 10 float numbers:\n");
+    for (int i = 0; i < 10; i++) {
+        printf("%d) ", i + 1);
+        scanf("%f", &arr[i]);
+        if (((int)arr[i] % 3 == 0) || ((int)arr[i] % 5 == 0)) {
+            sum += arr[i];
+        }
+    }
+    for (int i = 0; i < 10; i++) {
+        if (((int)arr[i] % 3 == 0) || ((int)arr[i] % 5 == 0)) {
+            printf(" +%.2f ",arr[i]);
+        }
+    }
+    printf("= %.2f\n", sum);
+    return 0;
+}
+_________________________________________________________________________________________________________________________________________________
+
+9. //WAP to input 5 numbers into an array and find the largest number.
+
+#include <stdio.h>
+
+int main(){
+    int arr[5], largest;
+    printf("Enter 5 numbers:\n");
+    for (int i = 0; i < 5; i++) {
+        printf("%d) ", i + 1);
+        scanf("%d", &arr[i]);
+    }
+    largest = arr[0];
+    for (int i = 1; i < 5; i++) {
+        if (arr[i] > largest) {
+            largest = arr[i];
+        }
+    }
+    printf("The largest number is: %d\n", largest);
+    return 0; 
+}
+_________________________________________________________________________________________________________________________________________________
+
+10. // WAP to input 10 numbers into an array and calculate the sum of odd numbers only.
+#include <stdio.h>
+
+int main(){
+    int arr[10], sum = 0;
+    printf("Enter 10 numbers:\n");
+    for (int i = 0; i < 10; i++) {
+        printf("%d) ", i + 1);
+        scanf("%d", &arr[i]);
+        if (arr[i] % 2 != 0) {
+            sum += arr[i];
+        }
+    }
+    for (int i = 0; i < 10; i++) {
+        if (arr[i] % 2 != 0) {
+            printf(" +%d ",arr[i]);
+        }
+    }
+    printf("= %d\n", sum);
+    return 0;
+}
+_________________________________________________________________________________________________________________________________________________
+
+11. // WAP to input 10 integer numbers into an array and separate positive and negative numbers into two different arrays and finally print them.
+
+#include <stdio.h>
+
+int main(){
+    int arr[10], pos[10], neg[10];
+    int posCount = 0, negCount = 0;
+
+    printf("Enter 10 integer numbers:\n");
+    for (int i = 0; i < 10; i++) {
+        printf("%d) ", i + 1);
+        scanf("%d", &arr[i]);
+        if (arr[i] >= 0) {
+            pos[posCount++] = arr[i];
+        } else {
+            neg[negCount++] = arr[i];
+        }
+    }
+
+    printf("Positive numbers:\n");
+    for (int i = 0; i < posCount; i++) {
+        printf("%d ", pos[i]);
+    }
+    printf("\n");
+
+    printf("Negative numbers:\n");
+    for (int i = 0; i < negCount; i++) {
+        printf("%d ", neg[i]);
+    }
+    printf("\n");
+
+    return 0;
+}
+_________________________________________________________________________________________________________________________________________________
+
+12. //WAP to input 10 integer numbers into an array, input another number and search weather that number is in the array or not.
+
+#include <stdio.h>
+
+int main(){
+    int arr[10], search;
+    printf("Enter 10 integer numbers:\n");
+    for (int i = 0; i < 10; i++) {
+        printf("%d) ", i + 1);
+        scanf("%d", &arr[i]);
+    }
+    printf("Enter a number to search: ");
+    scanf("%d", &search);
+    int index=0;
+
+    for (int i = 0; i < 10; i++) {
+       printf("Checking progress: %d/10\n", i+1);
+       if (arr[i] == search) {
+           index = i + 1;
+    }
+}
+    if (index != 0) {
+        printf("Number %d found in the array at position %d index=arr[%d].\n", search, index, index - 1);
+        } else {
+        printf("Number %d not found in the array.\n", search);
+        }
+    
+    return 0;   
+}
+
+_________________________________________________________________________________________________________________________________________________
+
+There is another version of Q12 at : "https://github.com/Not-Yug-Sharma/Notes-Obsidian/blob/main/SEM%20I/Notes/CSIT%20115-%20%20Programming%20in%20C/Programs/Lab3/q12v1.c" ***THIS HAS BEEN DONE WITH SUPPORT FROM GEMINI-AI FOR FUNCTIONS under <windows.h>***
