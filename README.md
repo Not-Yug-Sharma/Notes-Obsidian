@@ -6,9 +6,6 @@
 
 ## LINK QR's: 
 <img src="https://github.com/Not-Yug-Sharma/Notes-Obsidian/blob/main/links/LabWork.png" alt="Lab Work QR" width="250" height="300"><img src="https://github.com/Not-Yug-Sharma/Notes-Obsidian/blob/main/links/Assignments.png" alt="Assignments QR" width="250" height="300">
-### <pre>
-      Lab Work                          Assignments
-</pre>
 # <p align="center">If you like seeing organized things <b><i><u>AVOID</u></i></b> other files other than README.md on GitHub's website.</p>
 
 
