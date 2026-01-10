@@ -5,8 +5,8 @@
 
 
 ## LINK QR's: 
-<img src="CSIT-Notes/links/LabWork.png" width="250" height="300">
-
+<img src="CSIT-Notes/links/LabWork.png" width="250" height="300"><img src="CSIT-Notes/links/Assignments.png" width ="250" height="300">
+###            Lab Work                                  Assignments
 # <p align="center">If you like seeing organized things <b><i><u>AVOID</u></i></b> other files other than README.md on GitHub's website.</p>
 
 
