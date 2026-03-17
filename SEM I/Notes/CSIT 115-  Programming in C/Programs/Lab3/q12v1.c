@@ -22,7 +22,7 @@ int main() {
             else printf(".");
         }
         printf("] %d%%", (i + 1) * 10);
-        
+    
         fflush(stdout);
 
         if (arr[i] == search) {

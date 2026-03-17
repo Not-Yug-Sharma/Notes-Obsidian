@@ -1,0 +1,14 @@
+ID: 101
+Name: Aavi
+Marks - 
+	Math: 12.00/30, Physics: 13.00/30, English: 14.00/30, IT: 15.00/30, Programming: 16.00/30, 
+	Total: 70.00/150
+Date of Birth: 01/01/2004
+
+ID: 102
+Name: bisham
+Marks - 
+	Math: 21.00/30, Physics: 22.00/30, English: 20.00/30, IT: 23.00/30, Programming: 24.00/30, 
+	Total: 110.00/150
+Date of Birth: 01/03/2005
+
