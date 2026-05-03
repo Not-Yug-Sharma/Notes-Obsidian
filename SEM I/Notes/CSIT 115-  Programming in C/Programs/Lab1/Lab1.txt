@@ -1,0 +1,181 @@
+This can be found on my github notes repo as well: [https://github.com/Not-Yug-Sharma/Notes-Obsidian/tree/main/SEM%20I/Notes/CSIT%20115-%20%20Programming%20in%20C/Programs]
+
+
+IMPORTANT: Linux does not support <conio.h> header file as it is a windows only header file, hence it has been omitted.
+
+
+Lab assignment 1
+------------------------------------------------------------------------------------
+q1
+#include<stdio.h>
+
+int main(){
+    printf("Hello, Students");
+    return 0;
+}
+-------------------------------------------------------------------------------------
+
+q2
+#include <stdio.h>
+
+
+int main(){
+    int a;
+    float b, sum, mul, div1, div2, diff;
+    printf("Enter an integer: ");
+    scanf("%d", &a);
+    printf("Enter a float: ");
+    scanf("%f", &b);
+    sum = a + b;
+    mul = a * b;
+    div1 = a / b;
+    div2 = b / a;
+    diff = a - b;
+    printf("Sum: %.2f\n", sum);
+    printf("Multiplication: %.2f\n", mul);
+    printf("Division (a/b): %.2f\n", div1);
+    printf("Division (b/a): %.2f\n", div2);
+    printf("Difference: %.2f\n", diff);
+    return 0;
+}
+------------------------------------------------------------------------------------------
+
+q3
+#include <stdio.h>
+
+
+int main(){
+    float length, breadth, area, perimeter;
+    printf("Enter length and breadth of the rectangle: ");
+    scanf("%f%f", &length, &breadth);\
+    area = length * breadth;
+    perimeter = 2 * (length + breadth);
+    printf("Area of Rectangle: %.2f sq. units\n", area); //The format specifier %.2f is used to display float values with 2 decimal places
+    printf("Perimeter of Rectangle: %.2f units\n", perimeter);
+    return 0;
+}
+------------------------------------------------------------------------------------------------------
+
+q4
+#include <stdio.h>
+#include <math.h>
+
+int main(){
+    float radius, area, circumference;
+    float pi = 3.14159;
+
+    printf("Enter the radius of the circle:\n");
+    scanf("%f", &radius);
+    area = pi * pow(radius,2);//pow() is a function in math.h that works as ^ operator
+    circumference = 2 * pi * radius;
+
+    printf("Area of Circle: %.2f sq. units\n", area);
+    printf("Circumference of Circle: %.2f units\n", circumference);
+    return 0;
+}
+----------------------------------------------------------------------------------------------------
+
+q5
+
+#include <stdio.h>
+
+
+int main(){
+    float p, t, r, si, a;
+    printf("Enter principal amount, time(in years) and rate of interest:\n");
+    scanf("%f%f%f", &p, &t, &r);
+
+    si = (p * t * r) / 100;
+    a = p + si;
+
+    printf("Simple Interest: %.2f\n", si);
+    printf("Total Amount: %.2f\n", a);
+
+    return 0;
+}
+
+------------------------------------------------------------------------------------------------------
+
+q6
+
+#include <stdio.h>
+
+
+int main(){
+    int a, b, sum, difference, product, mod;
+    float quotient;
+
+    printf("Enter the 2 integer: ");
+    scanf("%d%d", &a, &b);
+
+    sum = a + b;
+    difference = a - b;
+    product = a * b;
+    if(b != 0){
+        quotient = a / b;
+    } else {
+        printf("...... Seriously? Trying to divide by zero? Grow up.\n");
+        return 1; 
+    }
+    if (a < b && a!=0) {
+        mod= b % a;
+    }
+    else if(b < a && b!=0){
+        mod= a % b;
+    }
+
+    printf("Sum: %d\n", sum);
+    printf("Difference: %d\n", difference);
+    printf("Product: %d\n", product);
+    printf("Quotient: %.2f\n", quotient);
+    printf("Modulus: %d\n", mod);
+
+    return 0;
+}
+-------------------------------------------------------------------------------------------------------------------
+
+q7
+
+#include <stdio.h>
+
+
+int main(){
+    int a, b;
+    printf("Enter first integer: ");
+    scanf("%d", &a);
+    printf("Enter second integer: ");
+    scanf("%d", &b);
+    printf("Relational Operations between %d and %d:\n", a, b);
+    printf("%d > %d : %s\n", a, b, (a > b) ? "True" : "False"); /* This statement basically means: if(a>b){printf("true");}
+                                                                                                    else {printf("false");} */
+    printf("%d < %d : %s\n", a, b, (a < b) ? "True" : "False");
+    printf("%d >= %d : %s\n", a, b, (a >= b) ? "True" : "False");
+    printf("%d <= %d : %s\n", a, b, (a <= b) ? "True" : "False");
+    printf("%d == %d : %s\n", a, b, (a == b) ? "True" : "False");
+    printf("%d != %d : %s\n", a, b, (a !=   b) ? "True" : "False");
+    return 0;
+}
+----------------------------------------------------------------------------------------------------------------------
+
+q8 
+
+#include <stdio.h>
+
+
+int main(){
+    int a, b;
+    printf("Enter the 2 integers: ");
+    scanf("%d%d", &a, &b);
+    
+    printf("Logical Operations between %d and %d:\n", a, b);
+    printf("(%d > 0) && (%d > 0) : %s\n", a, b, ((a > 0) && (b > 0)) ? "True" : "False"); /* This statement basically means: if(a>0 && b>0){printf("true");}
+                                                                                                                             else {printf("false");} */
+    printf("(%d > 0) || (%d > 0) : %s\n", a, b, ((a > 0) || (b > 0)) ? "True" : "False");/* This statement basically means: if(a>0 || b>0){printf("true");}
+                                                                                                                             else {printf("false");} */
+    printf("! (%d > 0) : %s\n", a, (!(a > 0) ? "True" : "False"));/* This statement basically means: if(a>0){printf("false");}
+                                                                                                     else {printf("True");} */
+    printf("! (%d > 0) : %s\n", b, (!(b > 0) ? "True" : "False"));
+
+    return 0;
+}
+--------------------------------------------------------------------------------------------------------------------------------
