@@ -108,11 +108,8 @@ int main()
                 display();
                 break;
 
-            case 5:
-                return 0;
-
             default:
-                printf("Invalid choice!\n");
+                return 0;
         }
     }
 }
